@@ -25,8 +25,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Installation files for osTicket
 - Azure Virtual Machine 
 - Heidi SQL
-- Item 4
-- Item 5
+
+<h2>Lab Overview</h2>
+This project demonstrates the deployment and configuration of the osTicket open-source support ticket system in a cloud-based environment. The lab simulates a real-world IT support/help desk scenario using a Windows-based Azure virtual machine.
+
+Lab Objectives:
+- Deploy and configure osTicket on an Azure-hosted Windows Server VM using IIS, PHP, and MySQL.
+
+- Connect and manage the osTicket database using HeidiSQL for user, ticket, and SLA data.
+
+Simulate real help desk operations by ->
+
+- Creating and managing support tickets
+
+- Configuring SLA plans
+
+- Setting up departments and teams
+
+- Assigning user roles and permissions
+
+- Testing workflows between users, agents, and admins
 
 <h2>Installation Steps</h2>
 
